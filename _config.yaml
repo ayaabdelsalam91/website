@@ -3,9 +3,7 @@ logo: /assets/aya_round.png
 #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-title: "Your Name"
 twitter_url: "https://x.com/asalam_91"
 scholar_url: "https://scholar.google.com/citations?user=VDhTJHUAAAAJ&hl=en"
 linkedin_url: "https://www.linkedin.com/in/ayaabdelsalamismail/"
-
+cv_url: "/assets/cv.pdf"
